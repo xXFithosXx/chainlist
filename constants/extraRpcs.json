@@ -96,7 +96,8 @@
     },
     "97": {
         "rpcs": [
-            "https://bsctestapi.terminet.io/rpc"
+            "https://bsctestapi.terminet.io/rpc",
+            "https://data-seed-prebsc-1-s1.binance.org"
         ]
     },
     "43114": {
